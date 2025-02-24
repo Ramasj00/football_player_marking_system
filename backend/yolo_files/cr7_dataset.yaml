@@ -1,0 +1,7 @@
+path: C:/Users/jucev/OneDrive/Desktop/Masters/2 Semestras/image_processing/nd3/backend/yolo_files
+train: train/images
+val: val/images
+test: test/images
+
+nc: 1  # Number of classes
+names: ["CR7"]  # Class name
